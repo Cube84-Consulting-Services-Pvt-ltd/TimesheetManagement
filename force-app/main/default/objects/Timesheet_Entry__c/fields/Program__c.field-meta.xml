@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Program__c</fullName>
+    <externalId>false</externalId>
+    <label>Program</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Recruitment</fullName>
+                <default>false</default>
+                <label>Recruitment</label>
+            </value>
+            <value>
+                <fullName>Screening</fullName>
+                <default>false</default>
+                <label>Screening</label>
+            </value>
+            <value>
+                <fullName>Training of Mentors and Mentees</fullName>
+                <default>false</default>
+                <label>Training of Mentors and Mentees</label>
+            </value>
+            <value>
+                <fullName>Matching and Initiating</fullName>
+                <default>false</default>
+                <label>Matching and Initiating</label>
+            </value>
+            <value>
+                <fullName>Monitoring and Support</fullName>
+                <default>false</default>
+                <label>Monitoring and Support</label>
+            </value>
+            <value>
+                <fullName>Closure</fullName>
+                <default>false</default>
+                <label>Closure</label>
+            </value>
+            <value>
+                <fullName>Program Operations</fullName>
+                <default>false</default>
+                <label>Program Operations</label>
+            </value>
+            <value>
+                <fullName>Program Planning and Management</fullName>
+                <default>false</default>
+                <label>Program Planning and Management</label>
+            </value>
+            <value>
+                <fullName>Program Evaluation</fullName>
+                <default>false</default>
+                <label>Program Evaluation</label>
+            </value>
+            <value>
+                <fullName>Delivery of Train the trainer</fullName>
+                <default>false</default>
+                <label>Delivery of Train the trainer</label>
+            </value>
+            <value>
+                <fullName>Prepare Program for NQMS</fullName>
+                <default>false</default>
+                <label>Prepare Program for NQMS</label>
+            </value>
+            <value>
+                <fullName>Guide through NQMS Self-Assessment</fullName>
+                <default>false</default>
+                <label>Guide through NQMS Self-Assessment</label>
+            </value>
+            <value>
+                <fullName>NQMS Review</fullName>
+                <default>false</default>
+                <label>NQMS Review</label>
+            </value>
+            <value>
+                <fullName>NQMS I&amp;I Plan</fullName>
+                <default>false</default>
+                <label>NQMS I&amp;I Plan</label>
+            </value>
+            <value>
+                <fullName>NQMS Follow up TA</fullName>
+                <default>false</default>
+                <label>NQMS Follow up TA</label>
+            </value>
+            <value>
+                <fullName>Support addition of a program to Mentoring Connector</fullName>
+                <default>false</default>
+                <label>Support addition of a program to Mentoring Connector</label>
+            </value>
+            <value>
+                <fullName>Administration</fullName>
+                <default>false</default>
+                <label>Administration</label>
+            </value>
+            <value>
+                <fullName>Consultant Model</fullName>
+                <default>false</default>
+                <label>Consultant Model</label>
+            </value>
+            <value>
+                <fullName>TA Provider Learning- List Name</fullName>
+                <default>false</default>
+                <label>TA Provider Learning- List Name</label>
+            </value>
+            <value>
+                <fullName>Others</fullName>
+                <default>false</default>
+                <label>Others</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
